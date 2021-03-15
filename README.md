@@ -1,5 +1,9 @@
 # Facial Emotion Detection
 
+## Introduction
+Created an realtime emotion detection application which detects 7 different types of emotions using facial expressions detected from the live camera as well as the images using FER2013 dataset.
+Developed a model using convolutional neural network and used that model to label the emotions after extracting and editing the faces from the COCO dataset 
+
 <h2> Import Libraries</h2>
 
 
